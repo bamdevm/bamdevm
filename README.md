@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bamdevm, Bamdev Mishra.
 - 👀 I’m interested in machine learning (ML) applications.
-- 🌱 I’m currently working in optimization techniques for ML.
+- 🌱 I’m currently working on optimization techniques for ML.
 - 📫 How to reach me: please visit https://bamdevmishra.in. 
 
 <!---
